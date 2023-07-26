@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @andypratama3
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-andypratama3/andypratama3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I'm @andypratama3
+- 👀 I am a Programmer in the fullstack developer field,
+ 🌱 I'm currently learning laravel, flutter, reac js
+- 💞️ I want to collaborate with everyone who is interested in the same field
+- 📫 How to contact me via instagram @andypratama3_
