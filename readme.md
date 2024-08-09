@@ -14,12 +14,12 @@
 <img align="right" src="https://github.com/andypratama3/AndyProfile/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
-- 👨‍💻 I'm Fullstack Development @[noon](https://www.noon.com/egypt-en/)
-- :school: I `graduated` from the [](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
+- 👨‍💻 I'm Fullstack Development 
+<!-- - :school: I `graduated` from the [](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
 - :trophy: 3x `ACPC` Finalist.
 - :computer: I am a Fullstack Developmetn.
 - ✍🏻 I love using Software as a solution for every Problem
-- 🤓 Always learning new things
+- 🤓 Always learning new things -->
 - : [MY RESUME](https://andypratama3.github.io/portfolio_new/assets/cv/CVAts_AndyPratama.pdf).
 - :boom: You can visit [MY WEBSITE](https://andypratama3.github.io/portfolio_new/).
 <br>
@@ -229,7 +229,7 @@
 
 ----
 	
-<div>
+<!-- <div>
   <p align="center">
 	<a href="https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
@@ -292,7 +292,7 @@
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Udemy-Website&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
-</div>
+</div> -->
 </details>
 
 </br></br>
