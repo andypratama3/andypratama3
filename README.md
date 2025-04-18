@@ -20,7 +20,7 @@
 - :computer: I am a Fullstack Developmetn.
 - ✍🏻 I love using Software as a solution for every Problem
 - 🤓 Always learning new things -->
-- : [MY RESUME](https://andypratama3.github.io/portfolio_new/assets/cv/CVAts_AndyPratama.pdf).
+- : [MY RESUME](https://andypratama3.github.io/portfolio_new/assets/cv/CV_AndyPratama_New.pdf).
 - :boom: You can visit [MY WEBSITE](https://andypratama3.github.io/portfolio_new/).
 <br>
 
