@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-andypratama3-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andypratama3)
 [![Portfolio](https://img.shields.io/badge/Portfolio-andypratama.vercel.app-1A56DB?style=for-the-badge&logo=vercel&logoColor=white)](https://andypratama.vercel.app)
 [![Email](https://img.shields.io/badge/Email-andypratama1211%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andypratama1211@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282217160075)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=andypratama3&style=for-the-badge&color=1A56DB&label=PROFILE+VIEWS)
 
@@ -20,9 +21,9 @@ I build **production-grade web applications** that solve real operational proble
 
 My work is measured by outcomes: administrative workload reduced, page loads faster, security hardened, and data accurate. Every project I ship has quantified results.
 
-> 3+ years of professional client engagements across education, government, commercial services, and event management.
-> Coding foundation built since 2019 through formal vocational training and continuous self-development.
-> Based in Samarinda, Indonesia — UTC+7 — open to full remote and relocation.
+> 🏢 3+ years of professional client engagements across education, government, commercial services, and event management.
+> 💻 Coding foundation built since 2019 through formal vocational training and continuous self-development.
+> 📍 Based in Samarinda, Indonesia — UTC+7 — open to full remote and relocation.
 
 ---
 
@@ -69,13 +70,19 @@ My work is measured by outcomes: administrative workload reduced, page loads fas
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### DevOps and Cloud
+### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -84,7 +91,7 @@ My work is measured by outcomes: administrative workload reduced, page loads fas
 ## Selected Projects
 
 <details>
-<summary><strong>SD Muhammadiyah 3 Samarinda — School Management System (v1 and v2)</strong></summary>
+<summary><strong>🏫 SD Muhammadiyah 3 Samarinda — School Management System (v1 & v2)</strong></summary>
 
 <br/>
 
@@ -109,7 +116,7 @@ My work is measured by outcomes: administrative workload reduced, page loads fas
 </details>
 
 <details>
-<summary><strong>Karta Spa — Integrated Spa and F&B Management System</strong></summary>
+<summary><strong>💆 Karta Spa — Integrated Spa & F&B Management System</strong></summary>
 
 <br/>
 
@@ -124,7 +131,7 @@ My work is measured by outcomes: administrative workload reduced, page loads fas
 </details>
 
 <details>
-<summary><strong>Bappeda East Kalimantan — Government Information Portal</strong></summary>
+<summary><strong>🏛️ Bappeda East Kalimantan — Government Information Portal</strong></summary>
 
 <br/>
 
@@ -132,14 +139,14 @@ My work is measured by outcomes: administrative workload reduced, page loads fas
 
 **What it does:** Official provincial government web portal for Bappeda Kalimantan Timur. Includes legacy database integration, multilingual CMS, interactive geospatial maps (Leaflet.js), and a Community Satisfaction Survey (SKM) module. Delivered on time and within budget.
 
-**Key results:** Security Grade A+ on two environments · Approximately 3,000 monthly visitors · Zero data loss during legacy migration · Multilingual support without hardcoded translations · Delivered on time and within budget
+**Key results:** Security Grade A+ on two environments · ~3,000 monthly visitors · Zero data loss during legacy migration · Multilingual support without hardcoded translations · Delivered on time and within budget
 
 **Stack:** Laravel 11, PHP 8, Blade, Tailwind CSS, MySQL, Google Translate API, Leaflet.js, Nginx, SSL/TLS
 
 </details>
 
 <details>
-<summary><strong>Koetai Mahkota Soundline — Event and Ticketing Platform</strong></summary>
+<summary><strong>🎵 Koetai Mahkota Soundline — Event & Ticketing Platform</strong></summary>
 
 <br/>
 
@@ -150,6 +157,21 @@ My work is measured by outcomes: administrative workload reduced, page loads fas
 **Key results:** 45% increase in online ticket sales · Delivered ahead of deadline · Zero critical bugs in production
 
 **Stack:** Laravel 10, PHP 8, MySQL, Midtrans Payment Gateway, Tailwind CSS
+
+</details>
+
+<details>
+<summary><strong>🗂️ ERD Generator — Chen Notation (Open Source)</strong></summary>
+
+<br/>
+
+**Role:** Author & Maintainer
+
+**What it does:** A Python-based tool that automatically generates Entity-Relationship Diagrams in Chen notation from structured input. Built to solve the tedious process of manually drawing ERDs for database design documentation.
+
+**Stack:** Python
+
+⭐ Community-starred repository
 
 </details>
 
@@ -173,6 +195,12 @@ My work is measured by outcomes: administrative workload reduced, page loads fas
 
 ---
 
+## 🐍 Contribution Graph
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/andypratama3/andypratama3/output/github-contribution-grid-snake.svg)
+
+---
+
 ## Currently
 
 ```text
@@ -193,5 +221,10 @@ Languages     Indonesian (native) · English (professional)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andypratama3)
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-1A56DB?style=for-the-badge&logo=vercel&logoColor=white)](https://andypratama.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andypratama3)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andypratama3_/)
+
+<br/>
+
+*"Build things that work. Ship things that matter."*
 
 </div>
