@@ -91,7 +91,7 @@ My work is measured by outcomes: administrative workload reduced, page loads fas
 ## Selected Projects
 
 <details>
-<summary><strong>🏫 SD Muhammadiyah 3 Samarinda — School Management System (v1 & v2)</strong></summary>
+<summary><strong>SD Muhammadiyah 3 Samarinda — School Management System (v1 & v2)</strong></summary>
 
 <br/>
 
@@ -116,7 +116,7 @@ My work is measured by outcomes: administrative workload reduced, page loads fas
 </details>
 
 <details>
-<summary><strong>💆 Karta Spa — Integrated Spa & F&B Management System</strong></summary>
+<summary><strong>Karta Spa — Integrated Spa & F&B Management System</strong></summary>
 
 <br/>
 
@@ -131,7 +131,7 @@ My work is measured by outcomes: administrative workload reduced, page loads fas
 </details>
 
 <details>
-<summary><strong>🏛️ Bappeda East Kalimantan — Government Information Portal</strong></summary>
+<summary><strong>Bappeda East Kalimantan — Government Information Portal</strong></summary>
 
 <br/>
 
@@ -146,7 +146,7 @@ My work is measured by outcomes: administrative workload reduced, page loads fas
 </details>
 
 <details>
-<summary><strong>🎵 Koetai Mahkota Soundline — Event & Ticketing Platform</strong></summary>
+<summary><strong>Koetai Mahkota Soundline — Event & Ticketing Platform</strong></summary>
 
 <br/>
 
@@ -161,7 +161,7 @@ My work is measured by outcomes: administrative workload reduced, page loads fas
 </details>
 
 <details>
-<summary><strong>🗂️ ERD Generator — Chen Notation (Open Source)</strong></summary>
+<summary><strong>ERD Generator — Chen Notation (Open Source)</strong></summary>
 
 <br/>
 
@@ -199,7 +199,7 @@ My work is measured by outcomes: administrative workload reduced, page loads fas
 
 ```text
 Status        Open to full-time remote, contract, and freelance
-Location      Samarinda, Indonesia — UTC+7
+Location      Samarinda, Indonesia — UTC+8
 Timezone      Available for overlap with CET, EST, PST
 Education     D4 Software Engineering, Politeknik Negeri Samarinda
 Graduation    Expected September 2026
