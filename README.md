@@ -195,12 +195,6 @@ My work is measured by outcomes: administrative workload reduced, page loads fas
 
 ---
 
-## 🐍 Contribution Graph
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/andypratama3/andypratama3/output/github-contribution-grid-snake.svg)
-
----
-
 ## Currently
 
 ```text
