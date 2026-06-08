@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-andypratama3-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andypratama3)
 [![Portfolio](https://img.shields.io/badge/Portfolio-andypratama.studio-1A56DB?style=for-the-badge&logo=safari&logoColor=white)](https://andypratama.studio)
 [![Email](https://img.shields.io/badge/Email-andypratama1211-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andypratama1211@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B62_822--1716--0075-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282217160075)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282217160075)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=andypratama3&style=for-the-badge&color=1A56DB&label=PROFILE+VIEWS)
 
