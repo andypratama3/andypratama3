@@ -100,7 +100,7 @@ My work is measured by outcomes: administrative workload reduced, page loads fas
 
 <br/>
 
-**Role:** Author & Lead Developer &nbsp;|&nbsp; [github.com/andypratama3/ProductsSchool](https://github.com/andypratama3/ProductsSchool)
+**Role:** Author & Lead Developer &nbsp;|&nbsp; [GitHub Repo](https://github.com/andypratama3/ProductsSchool) · [Live Demo](https://sdmuhammadiyah3smd.cloud/dashboard) · [Marketing Site](https://product-school-docs.vercel.app)
 
 **What it does:** Full-scale enterprise school management platform with AI-powered report card narrative generation, real-time WebSocket dashboard, multi-tenant RBAC, automated payroll with biometric integration, and geofencing attendance — built to production-grade standards with full test coverage and Kubernetes deployment.
 
@@ -129,7 +129,7 @@ My work is measured by outcomes: administrative workload reduced, page loads fas
 
 <br/>
 
-**Role:** Tech Lead — Senior Fullstack Developer
+**Role:** Tech Lead — Senior Fullstack Developer &nbsp;|&nbsp; [Live Site](https://sdmuhammadiyah3smd.cloud)
 
 **What it does:** Enterprise school management system for 1,000+ students covering academic management, automated digital billing, geofencing-based attendance, and a parent portal — replacing entirely manual administrative processes.
 
@@ -197,7 +197,7 @@ My work is measured by outcomes: administrative workload reduced, page loads fas
 
 <br/>
 
-**Role:** Author & Maintainer
+**Role:** Author & Maintainer &nbsp;|&nbsp; [GitHub Repo](https://github.com/andypratama3/erd-generator-chen-notation) · [Live App](https://website-generate-erd-chen.vercel.app)
 
 **What it does:** A Python-based tool that automatically generates Entity-Relationship Diagrams in Chen notation from structured input — eliminating manual ERD drawing for database documentation.
 
