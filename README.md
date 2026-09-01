@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=1A56DB&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Andy+Pratama+%F0%9F%91%8B;Senior+Fullstack+Developer;Laravel+%C2%B7+Next.js+%C2%B7+React.js+%C2%B7+PHP+8;Building+systems+that+last." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=1A56DB&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Andy+Pratama+%F0%9F%91%8B;Software+Engineer;Laravel+%C2%B7+Next.js+%C2%B7+React.js+%C2%B7+PHP+8;Building+systems+that+last." alt="Typing SVG" />
 
 <br/>
 
@@ -79,8 +79,6 @@ My work is measured by outcomes: administrative workload reduced, page loads fas
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 **AI & Integrations**
@@ -90,6 +88,8 @@ My work is measured by outcomes: administrative workload reduced, page loads fas
 ![WhatsApp API](https://img.shields.io/badge/WhatsApp_Business_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 </div>
+
+*Angka dan klaim teknis di bawah sudah diverifikasi langsung terhadap codebase (audit opencode, Agustus 2026) — bukan perkiraan.*
 
 ---
 
@@ -102,20 +102,22 @@ My work is measured by outcomes: administrative workload reduced, page loads fas
 
 **Role:** Author & Lead Developer &nbsp;|&nbsp; [GitHub Repo](https://github.com/andypratama3/ProductsSchool) · [Live Demo](https://sdmuhammadiyah3smd.cloud/dashboard) · [Marketing Site](https://product-school-docs.vercel.app)
 
-**What it does:** Full-scale enterprise school management platform with AI-powered report card narrative generation, real-time WebSocket dashboard, multi-tenant RBAC, automated payroll with biometric integration, and geofencing attendance — built to production-grade standards with full test coverage and Kubernetes deployment.
+**What it does:** Full-scale school management platform with AI-powered report card narrative generation, real-time WebSocket dashboard, multi-tenant RBAC, automated payroll with biometric integration, and geofencing attendance — built with Kubernetes-ready deployment manifests and verified test coverage.
 
 | Metric | Value |
 |:-------|:------|
-| RESTful API Endpoints | **200+** with versioning, rate limiting & Postman collection |
-| Eloquent Models | **96** |
-| Domain Services | **45** |
-| Queue Jobs | **17** via Laravel Horizon |
-| Broadcast Events | **26** via Laravel Reverb (WebSocket) |
-| E2E Test Scenarios | **40+** Playwright scenarios for critical flows |
+| RESTful API Endpoints | **190+** with versioning & rate limiting |
+| Eloquent Models | **130+** |
+| Domain Services | **111** |
+| Queue Jobs | **24** via Laravel Queue & batching |
+| Broadcast Events | **14** via Laravel Reverb (WebSocket, real-time chat) |
+| Automated Tests | **1,036** PHPUnit tests · 30 E2E scenarios (Playwright/TestSprite) |
+| Static Analysis | PHPStan — **0 errors** |
+| Deployment | Kubernetes-ready — Kustomize manifests (base + 3 overlays + HPA + monitoring) |
 
 **Key features:**
-- 🤖 AI report card narrative — Claude API (streaming + tool use) with DeepSeek fallback, avg < 3s response
-- 🖼️ Canvas-based document editor (Fabric.js) — drag-and-drop with bulk PDF export (100+ pages/batch)
+- 🤖 AI report card narrative — Claude API (streaming + tool use) with DeepSeek fallback
+- 🖼️ Canvas-based document editor (Fabric.js) — drag-and-drop with bulk PDF export
 - 📡 Real-time WebSocket dashboard — attendance, payments, grades
 - 🏦 Automated payroll with Fingerspot biometric integration
 - 📍 Geofencing attendance via Google Earth KML
@@ -129,7 +131,7 @@ My work is measured by outcomes: administrative workload reduced, page loads fas
 
 <br/>
 
-**Role:** Tech Lead — Senior Fullstack Developer &nbsp;|&nbsp; [Live Site](https://sdmuhammadiyah3smd.cloud)
+**Role:** Software Engineer &nbsp;|&nbsp; [Live Site](https://sdmuhammadiyah3smd.cloud)
 
 **What it does:** Enterprise school management system for 1,000+ students covering academic management, automated digital billing, geofencing-based attendance, and a parent portal — replacing entirely manual administrative processes.
 
@@ -152,13 +154,13 @@ My work is measured by outcomes: administrative workload reduced, page loads fas
 
 <br/>
 
-**Role:** Backend Solution Architect (Freelance)
+**Role:** Backend Developer (Freelance)
 
-**What it does:** Multi-tenant backend for integrated Spa service operations and F&B management across 3 active branches. Handles booking, real-time recipe-based inventory deduction, financial reporting, biometric HR integration, and RBAC across 6 operational roles.
+**What it does:** Multi-tenant backend for integrated Spa service operations and F&B management. Handles booking, real-time recipe-based inventory deduction, financial reporting, biometric HR integration, and RBAC across 6 operational roles.
 
-**Key results:** 99% data accuracy · 50+ daily F&B transactions processed · Automated payroll for 20+ staff · Zero manual payroll reconciliation errors
+**Key results:** 99% data accuracy · Automated payroll · Zero manual payroll reconciliation errors
 
-**Stack:** `Laravel 11` `PHP 8` `Livewire` `MySQL` `Spatie Permission``Fingerspot Biometric API` `Redis`
+**Stack:** `Laravel 11` `PHP 8` `Livewire` `MySQL` `Spatie Permission` `Fingerspot Biometric API` `Redis`
 
 </details>
 
@@ -167,7 +169,7 @@ My work is measured by outcomes: administrative workload reduced, page loads fas
 
 <br/>
 
-**Role:** Senior Fullstack Developer (Government Contract)
+**Role:** Software Engineer (Government Contract)
 
 **What it does:** Official provincial government web portal for Bappeda Kalimantan Timur. Includes zero-loss legacy database migration, multilingual CMS, interactive geospatial maps (Leaflet.js), and a Community Satisfaction Survey (SKM) module with Excel export.
 
@@ -182,7 +184,7 @@ My work is measured by outcomes: administrative workload reduced, page loads fas
 
 <br/>
 
-**Role:** Fullstack Developer (Freelance)
+**Role:** Full-Stack Developer (Freelance)
 
 **What it does:** Complete event management and ticket sales platform with Midtrans payment integration. Built and delivered within a 2-month timeline.
 
@@ -233,10 +235,10 @@ My work is measured by outcomes: administrative workload reduced, page loads fas
 Status        Open to full-time remote, contract, and freelance
 Location      Samarinda, Indonesia — UTC+8
 Timezone      Available for overlap with CET, EST, PST
-Education     D4 Software Engineering, Politeknik Negeri Pertanian Samarinda
+Education     D4 Software Engineering, Politeknik Pertanian Negeri Samarinda
 Graduation    Expected September 2026
 Schedule      Flexible classes — does not conflict with full-time employment
-Languages     Indonesian (native) · English (professional written, conversational spoken)
+Languages     Indonesian (native) · English (Limited Working)
 ```
 
 ---
